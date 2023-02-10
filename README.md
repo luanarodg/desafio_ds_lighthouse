@@ -39,11 +39,11 @@ Com isso, foram gerados outros arquivos como resultado dos modelos feitos com os
 
 `requirements.txt` arquivo onde contem as bibliotecas utilizadas no projeto
 
-`decision_tree.ipynb` notebook contendo modelo de Decision Tree (análise explolatória, modelagem e predição)
+`decision_tree.ipynb` notebook contendo modelo de Decision Tree (análise exploratória, modelagem e predição)
 
-`logistic_regression.ipynb` notebook contendo modelo de Logistic Regression (análise explolatória, modelagem e predição)
+`logistic_regression.ipynb` notebook contendo modelo de Logistic Regression (análise exploratória, modelagem e predição)
 
-`random_forest.ipynb` notebook contendo modelo de Random Forest (análise explolatória, modelagem e predição)
+`random_forest.ipynb` notebook contendo modelo de Random Forest (análise exploratória, modelagem e predição)
 
 `predicted.csv` arquivo contendo a predição final com o resultado de previsão e com apenas duas colunas (rowNumber, predictedValues)
 
